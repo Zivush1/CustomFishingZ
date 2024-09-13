@@ -1,0 +1,64 @@
+# Whether to store fishing statistics
+store_statistics: true
+
+pools:
+  lake_of_plenty:
+    # The first corner of the pool (format: "x,y,z,world")
+    pos1: "100,64,100,world"
+    # The second corner of the pool (format: "x,y,z,world")
+    pos2: "150,74,150,world"
+    # Rewards that can be obtained from this pool
+    rewards:
+      # Each reward has a unique name (e.g., "small_fish")
+      small_fish:
+        # Message sent to the player when they win this reward
+        message: "&aYou caught a small fish!"
+        # Commands to execute when this reward is won (%player% is replaced with the player's name)
+        commands:
+          - "give %player% cod 1"
+        # Chance of winning this reward (must be between 0 and 1)
+        chance: 0.4
+      big_fish:
+        message: "&bYou caught a big fish!"
+        commands:
+          - "give %player% salmon 2"
+        chance: 0.3
+      treasure_chest:
+        message: "&6You found a treasure chest!"
+        commands:
+          - "give %player% iron_ingot 5"
+          - "give %player% gold_ingot 3"
+        chance: 0.15
+      old_boot:
+        message: "&7You fished out an old boot..."
+        commands:
+          - "give %player% leather_boots 1"
+        chance: 0.1
+      legendary_catch:
+        message: "&5You made a legendary catch!"
+        commands:
+          - "give %player% diamond 1"
+          - "give %player% emerald 2"
+        chance: 0.05
+
+settings:
+  # Whether the game speed should be random
+  random_speed: false
+  # Fixed game speed if random_speed is false (in ticks, 20 ticks = 1 second)
+  speed: 1
+  # Minimum game speed if random_speed is true
+  min_speed: 1
+  # Maximum game speed if random_speed is true
+  max_speed: 4
+  # Character used to display the fishing bar
+  bar_texture: "█"
+
+game_display:
+  # How to display the fishing game ('bossbar', 'actionbar', or 'subtitle')
+  type: 'subtitle'
+
+messages:
+  # Message sent when the fish escapes
+  fish_escape: "&cOh no! The fish got away!"
+  # Message sent when a fish is caught (before the reward message)
+  fish_caught: "&aYou've got a bite!"

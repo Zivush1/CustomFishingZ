@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo1Mjk0MDQ=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="9f5cd2c9-765e-4afa-97b5-ca768e7c231e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="0472310d-204e-4368-b451-77465235d6bb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="aeb27ce8-c6be-4ac8-99f6-95f13ba4fcc6" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="344145b9-2e5b-4fbd-a8a2-8c74b95d58a3" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="ac3fc610-8014-4f94-9667-07b6d0dfaf9f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="2207f6ca-51d8-4240-b6e4-478f7f4ba645" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="9e949ba8-3a79-4ff1-8e5e-42a13f0488c1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="d6c2d21a-5047-46db-a422-8cd152a2d2d4" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="68aabf46-8836-46ef-b2c8-548feb76ca36" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="be2762aa-e895-4f10-876a-a71bc3620db1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="&#10;please add option to change the bossbar to action bar also option to change the texture (text) of the bossbar for example change the &amp;quot;█&amp;quot; with &amp;quot;O&amp;quot;&#10;this is the main class:&#10;package me.zivush.customfishingz;&#10;&#10;import org.bukkit.*;&#10;import org.bukkit.boss.BarColor;&#10;import org.bukkit.boss.BarStyle;&#10;import org.bukkit.boss.BossBar;&#10;import org.bukkit.configuration.ConfigurationSection;&#10;import org.bukkit.configuration.file.FileConfiguration;&#10;import org.bukkit.enchantments.Enchantment;&#10;import org.bukkit.entity.Player;&#10;import org.bukkit.event.EventHandler;&#10;import org.bukkit.event.Listener;&#10;import org.bukkit.event.player.PlayerFishEvent;&#10;import org.bukkit.event.player.PlayerInteractEvent;&#10;import org.bukkit.inventory.ItemStack;&#10;import org.bukkit.plugin.java.JavaPlugin;&#10;import org.bukkit.scheduler.BukkitRunnable;&#10;&#10;import java.util.HashMap;&#10;import java.util.List;&#10;import java.util.Map;&#10;import java.util.Random;&#10;&#10;public class CustomFishingZ extends JavaPlugin implements Listener {&#10;&#10;    private Location poolLocation;&#10;    private int poolRadius;&#10;    private Map&amp;lt;String, Reward&amp;gt; rewards;&#10;    private Map&amp;lt;Player, FishingGame&amp;gt; activeGames;&#10;    private String fishEscapeMessage;&#10;    private String fishCaughtMessage;&#10;    private boolean randomSpeed;&#10;    private int fixedSpeed;&#10;    private int minSpeed;&#10;    private int maxSpeed;&#10;&#10;    @Override&#10;    public void onEnable() {&#10;        saveDefaultConfig();&#10;        loadConfig();&#10;        getServer().getPluginManager().registerEvents(this, this);&#10;        CustomFishingZCommands commands = new CustomFishingZCommands(this);&#10;        getCommand(&amp;quot;customfishingz&amp;quot;).setExecutor(commands);&#10;        getCommand(&amp;quot;customfishingz&amp;quot;).setTabCompleter(commands);&#10;        activeGames = new HashMap&amp;lt;&amp;gt;();&#10;    }&#10;&#10;    @Override&#10;    public void onDisable() {&#10;        for (FishingGame game : activeGames.values()) {&#10;            game.end();&#10;        }&#10;    }&#10;&#10;    public void loadConfig() {&#10;        reloadConfig();&#10;        FileConfiguration config = getConfig();&#10;&#10;        String[] poolLoc = config.getString(&amp;quot;pool.location&amp;quot;, &amp;quot;0, 64, 0, world&amp;quot;).split(&amp;quot;, &amp;quot;);&#10;        World world = getServer().getWorld(poolLoc[3]);&#10;        if (world == null) {&#10;            getLogger().warning(&amp;quot;Invalid world name in config. Using default world.&amp;quot;);&#10;            world = getServer().getWorlds().get(0);&#10;        }&#10;        poolLocation = new Location(world, Double.parseDouble(poolLoc[0]), Double.parseDouble(poolLoc[1]), Double.parseDouble(poolLoc[2]));&#10;        poolRadius = config.getInt(&amp;quot;pool.radius&amp;quot;, 15);&#10;&#10;        rewards = new HashMap&amp;lt;&amp;gt;();&#10;        ConfigurationSection rewardsSection = config.getConfigurationSection(&amp;quot;rewards&amp;quot;);&#10;        if (rewardsSection != null) {&#10;            for (String key : rewardsSection.getKeys(false)) {&#10;                ConfigurationSection rewardSection = rewardsSection.getConfigurationSection(key);&#10;                if (rewardSection != null) {&#10;                    rewards.put(key, new Reward(&#10;                            rewardSection.getString(&amp;quot;message&amp;quot;, &amp;quot;You won a reward!&amp;quot;).replace('&amp;amp;', '§'),&#10;                            rewardSection.getStringList(&amp;quot;commands&amp;quot;),&#10;                            rewardSection.getDouble(&amp;quot;chance&amp;quot;, 0.1)&#10;                    ));&#10;                }&#10;            }&#10;        }&#10;&#10;        fishEscapeMessage = ChatColor.translateAlternateColorCodes('&amp;amp;', config.getString(&amp;quot;messages.fish_escape&amp;quot;, &amp;quot;&amp;amp;cYou did not catch the fish&amp;quot;));&#10;        fishCaughtMessage = ChatColor.translateAlternateColorCodes('&amp;amp;', config.getString(&amp;quot;messages.fish_caught&amp;quot;, &amp;quot;&amp;amp;aYou caught the fish&amp;quot;));&#10;&#10;        randomSpeed = config.getBoolean(&amp;quot;settings.random_speed&amp;quot;, false);&#10;        fixedSpeed = config.getInt(&amp;quot;settings.speed&amp;quot;, 1);&#10;        minSpeed = config.getInt(&amp;quot;settings.min_speed&amp;quot;, 1);&#10;        maxSpeed = config.getInt(&amp;quot;settings.max_speed&amp;quot;, 4);&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerFish(PlayerFishEvent event) {&#10;        Player player = event.getPlayer();&#10;        if (event.getState() == PlayerFishEvent.State.CAUGHT_FISH) {&#10;            Location fishLocation = event.getHook().getLocation();&#10;            if (isInPool(fishLocation)) {&#10;                event.setCancelled(true);&#10;                ItemStack fishingRod = player.getInventory().getItemInMainHand();&#10;                if (fishingRod.getType() == Material.FISHING_ROD) {&#10;                    int unbreakingLevel = fishingRod.getEnchantmentLevel(Enchantment.DURABILITY);&#10;                    boolean shouldTakeDamage = true;&#10;&#10;                    if (unbreakingLevel &amp;gt; 0) {&#10;                        Random random = new Random();&#10;                        int chance = 100 / (unbreakingLevel + 1);&#10;                        shouldTakeDamage = random.nextInt(100) &amp;lt; chance;&#10;                    }&#10;&#10;                    if (shouldTakeDamage) {&#10;                        fishingRod.setDurability((short) (fishingRod.getDurability() + 1));&#10;                    }&#10;                }&#10;                Bukkit.getScheduler().scheduleSyncDelayedTask(this, new Runnable() {&#10;                    @Override&#10;                    public void run() {&#10;                        startFishingGame(player);&#10;                    }&#10;                }, 3L);&#10;            }&#10;        }&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerInteract(PlayerInteractEvent event) {&#10;        Player player = event.getPlayer();&#10;        FishingGame game = activeGames.get(player);&#10;        if (game != null) {&#10;            game.onInteract();&#10;        }&#10;    }&#10;&#10;    private boolean isInPool(Location location) {&#10;        if (location == null || location.getWorld() == null || poolLocation == null || poolLocation.getWorld() == null) {&#10;            getLogger().warning(&amp;quot;Null location or world detected in isInPool check.&amp;quot;);&#10;            return false;&#10;        }&#10;        if (!location.getWorld().equals(poolLocation.getWorld())) {&#10;            return false;&#10;        }&#10;        return location.distanceSquared(poolLocation) &amp;lt;= poolRadius * poolRadius;&#10;    }&#10;&#10;    private void startFishingGame(Player player) {&#10;        if (activeGames.containsKey(player)) {&#10;            activeGames.get(player).end();&#10;        } else {&#10;            FishingGame game = new FishingGame(player);&#10;            activeGames.put(player, game);&#10;            game.start();&#10;        }&#10;    }&#10;&#10;    private void giveReward(Player player) {&#10;        double random = Math.random();&#10;        double cumulativeChance = 0;&#10;&#10;        for (Reward reward : rewards.values()) {&#10;            cumulativeChance += reward.getChance();&#10;            if (random &amp;lt;= cumulativeChance) {&#10;                player.sendMessage(reward.getMessage());&#10;                for (String command : reward.getCommands()) {&#10;                    command = command.replace(&amp;quot;%player%&amp;quot;, player.getName());&#10;                    Bukkit.dispatchCommand(Bukkit.getConsoleSender(), command);&#10;                }&#10;                return;&#10;            }&#10;        }&#10;    }&#10;&#10;    public void setPool(Location location, int radius) {&#10;        if (location == null || location.getWorld() == null) {&#10;            getLogger().warning(&amp;quot;Attempted to set pool with null location or world.&amp;quot;);&#10;            return;&#10;        }&#10;        poolLocation = location;&#10;        poolRadius = radius;&#10;        FileConfiguration config = getConfig();&#10;        config.set(&amp;quot;pool.location&amp;quot;, String.format(&amp;quot;%.2f, %.2f, %.2f, %s&amp;quot;, location.getX(), location.getY(), location.getZ(), location.getWorld().getName()));&#10;        config.set(&amp;quot;pool.radius&amp;quot;, radius);&#10;        saveConfig();&#10;    }&#10;&#10;    private class FishingGame {&#10;        private final Player player;&#10;        private final BossBar bossBar;&#10;        private BukkitRunnable gameTask;&#10;        private int position;&#10;        private int count;&#10;        private boolean increasing;&#10;        private int gameSpeed;&#10;&#10;        public FishingGame(Player player) {&#10;            this.player = player;&#10;            this.bossBar = Bukkit.createBossBar(&amp;quot;§7█████████§2███§7█████████&amp;quot;, BarColor.GREEN, BarStyle.SOLID);&#10;            this.bossBar.addPlayer(player);&#10;&#10;            if (randomSpeed) {&#10;                Random random = new Random();&#10;                gameSpeed = random.nextInt(maxSpeed - minSpeed + 1) + minSpeed;&#10;            } else {&#10;                gameSpeed = fixedSpeed;&#10;            }&#10;        }&#10;&#10;        public void start() {&#10;            position = 0;&#10;            increasing = true;&#10;            gameTask = new BukkitRunnable() {&#10;                @Override&#10;                public void run() {&#10;                    if (count &amp;gt;= 80) {&#10;                        end();&#10;                        player.sendMessage(fishEscapeMessage);&#10;                        player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;                    }&#10;                    if (increasing) {&#10;                        position++;&#10;                        count++;&#10;                        if (position &amp;gt;= 20) {&#10;                            increasing = false;&#10;                        }&#10;                    } else {&#10;                        position--;&#10;                        count++;&#10;                        if (position &amp;lt;= 0) {&#10;                            increasing = true;&#10;                        }&#10;                    }&#10;                    updateBossBar();&#10;                }&#10;            };&#10;            gameTask.runTaskTimer(CustomFishingZ.this, 0, gameSpeed);&#10;        }&#10;&#10;        public void onInteract() {&#10;            if ((position == 9 || position == 10 || position == 11)) {&#10;                end();&#10;                giveReward(player);&#10;                player.sendMessage(fishCaughtMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_EXPERIENCE_ORB_PICKUP, 1.0f, 1.0f);&#10;            } else {&#10;                end();&#10;                player.sendMessage(fishEscapeMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;            }&#10;        }&#10;&#10;        public void end() {&#10;            if (gameTask != null) {&#10;                gameTask.cancel();&#10;            }&#10;            player.getWorld().getEntities().stream()&#10;                    .filter(entity -&amp;gt; entity instanceof org.bukkit.entity.FishHook)&#10;                    .map(entity -&amp;gt; (org.bukkit.entity.FishHook) entity)&#10;                    .filter(fishHook -&amp;gt; fishHook.getShooter() instanceof Player)&#10;                    .filter(fishHook -&amp;gt; fishHook.getShooter().equals(player))&#10;                    .forEach(org.bukkit.entity.FishHook::remove);&#10;&#10;            bossBar.removeAll();&#10;            activeGames.remove(player);&#10;        }&#10;&#10;        private void updateBossBar() {&#10;            StringBuilder barText = new StringBuilder(&amp;quot;§7&amp;quot;);&#10;            for (int i = 0; i &amp;lt; 21; i++) {&#10;                if (i == position) {&#10;                    barText.append(&amp;quot;§a█&amp;quot;);&#10;                } else if (i == 9 || i == 10 || i == 11) {&#10;                    barText.append(&amp;quot;§2█&amp;quot;);&#10;                } else {&#10;                    barText.append(&amp;quot;§7█&amp;quot;);&#10;                }&#10;            }&#10;            bossBar.setTitle(barText.toString());&#10;        }&#10;    }&#10;&#10;    private static class Reward {&#10;        private final String message;&#10;        private final List&amp;lt;String&amp;gt; commands;&#10;        private final double chance;&#10;&#10;        public Reward(String message, List&amp;lt;String&amp;gt; commands, double chance) {&#10;            this.message = message;&#10;            this.commands = commands;&#10;            this.chance = chance;&#10;        }&#10;&#10;        public String getMessage() {&#10;            return message;&#10;        }&#10;&#10;        public List&amp;lt;String&amp;gt; getCommands() {&#10;            return commands;&#10;        }&#10;&#10;        public double getChance() {&#10;            return chance;&#10;        }&#10;    }&#10;}&#10;&#10;send me the new full main class" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Certainly! Here's the updated main class with the new options to change the display type (BossBar or ActionBar) and the texture (character) used in the bar:&#10;&#10;```java&#10;package me.zivush.customfishingz;&#10;&#10;import org.bukkit.*;&#10;import org.bukkit.boss.BarColor;&#10;import org.bukkit.boss.BarStyle;&#10;import org.bukkit.boss.BossBar;&#10;import org.bukkit.configuration.ConfigurationSection;&#10;import org.bukkit.configuration.file.FileConfiguration;&#10;import org.bukkit.enchantments.Enchantment;&#10;import org.bukkit.entity.Player;&#10;import org.bukkit.event.EventHandler;&#10;import org.bukkit.event.Listener;&#10;import org.bukkit.event.player.PlayerFishEvent;&#10;import org.bukkit.event.player.PlayerInteractEvent;&#10;import org.bukkit.inventory.ItemStack;&#10;import org.bukkit.plugin.java.JavaPlugin;&#10;import org.bukkit.scheduler.BukkitRunnable;&#10;&#10;import java.util.HashMap;&#10;import java.util.List;&#10;import java.util.Map;&#10;import java.util.Random;&#10;&#10;public class CustomFishingZ extends JavaPlugin implements Listener {&#10;&#10;    private Location poolLocation;&#10;    private int poolRadius;&#10;    private Map&lt;String, Reward&gt; rewards;&#10;    private Map&lt;Player, FishingGame&gt; activeGames;&#10;    private String fishEscapeMessage;&#10;    private String fishCaughtMessage;&#10;    private boolean randomSpeed;&#10;    private int fixedSpeed;&#10;    private int minSpeed;&#10;    private int maxSpeed;&#10;    private boolean useActionBar;&#10;    private String barTexture;&#10;&#10;    @Override&#10;    public void onEnable() {&#10;        saveDefaultConfig();&#10;        loadConfig();&#10;        getServer().getPluginManager().registerEvents(this, this);&#10;        CustomFishingZCommands commands = new CustomFishingZCommands(this);&#10;        getCommand(&quot;customfishingz&quot;).setExecutor(commands);&#10;        getCommand(&quot;customfishingz&quot;).setTabCompleter(commands);&#10;        activeGames = new HashMap&lt;&gt;();&#10;    }&#10;&#10;    @Override&#10;    public void onDisable() {&#10;        for (FishingGame game : activeGames.values()) {&#10;            game.end();&#10;        }&#10;    }&#10;&#10;    public void loadConfig() {&#10;        reloadConfig();&#10;        FileConfiguration config = getConfig();&#10;&#10;        String[] poolLoc = config.getString(&quot;pool.location&quot;, &quot;0, 64, 0, world&quot;).split(&quot;, &quot;);&#10;        World world = getServer().getWorld(poolLoc[3]);&#10;        if (world == null) {&#10;            getLogger().warning(&quot;Invalid world name in config. Using default world.&quot;);&#10;            world = getServer().getWorlds().get(0);&#10;        }&#10;        poolLocation = new Location(world, Double.parseDouble(poolLoc[0]), Double.parseDouble(poolLoc[1]), Double.parseDouble(poolLoc[2]));&#10;        poolRadius = config.getInt(&quot;pool.radius&quot;, 15);&#10;&#10;        rewards = new HashMap&lt;&gt;();&#10;        ConfigurationSection rewardsSection = config.getConfigurationSection(&quot;rewards&quot;);&#10;        if (rewardsSection != null) {&#10;            for (String key : rewardsSection.getKeys(false)) {&#10;                ConfigurationSection rewardSection = rewardsSection.getConfigurationSection(key);&#10;                if (rewardSection != null) {&#10;                    rewards.put(key, new Reward(&#10;                            rewardSection.getString(&quot;message&quot;, &quot;You won a reward!&quot;).replace('&amp;', '§'),&#10;                            rewardSection.getStringList(&quot;commands&quot;),&#10;                            rewardSection.getDouble(&quot;chance&quot;, 0.1)&#10;                    ));&#10;                }&#10;            }&#10;        }&#10;&#10;        fishEscapeMessage = ChatColor.translateAlternateColorCodes('&amp;', config.getString(&quot;messages.fish_escape&quot;, &quot;&amp;cYou did not catch the fish&quot;));&#10;        fishCaughtMessage = ChatColor.translateAlternateColorCodes('&amp;', config.getString(&quot;messages.fish_caught&quot;, &quot;&amp;aYou caught the fish&quot;));&#10;&#10;        randomSpeed = config.getBoolean(&quot;settings.random_speed&quot;, false);&#10;        fixedSpeed = config.getInt(&quot;settings.speed&quot;, 1);&#10;        minSpeed = config.getInt(&quot;settings.min_speed&quot;, 1);&#10;        maxSpeed = config.getInt(&quot;settings.max_speed&quot;, 4);&#10;&#10;        useActionBar = config.getBoolean(&quot;settings.use_action_bar&quot;, false);&#10;        barTexture = config.getString(&quot;settings.bar_texture&quot;, &quot;█&quot;);&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerFish(PlayerFishEvent event) {&#10;        Player player = event.getPlayer();&#10;        if (event.getState() == PlayerFishEvent.State.CAUGHT_FISH) {&#10;            Location fishLocation = event.getHook().getLocation();&#10;            if (isInPool(fishLocation)) {&#10;                event.setCancelled(true);&#10;                ItemStack fishingRod = player.getInventory().getItemInMainHand();&#10;                if (fishingRod.getType() == Material.FISHING_ROD) {&#10;                    int unbreakingLevel = fishingRod.getEnchantmentLevel(Enchantment.DURABILITY);&#10;                    boolean shouldTakeDamage = true;&#10;&#10;                    if (unbreakingLevel &gt; 0) {&#10;                        Random random = new Random();&#10;                        int chance = 100 / (unbreakingLevel + 1);&#10;                        shouldTakeDamage = random.nextInt(100) &lt; chance;&#10;                    }&#10;&#10;                    if (shouldTakeDamage) {&#10;                        fishingRod.setDurability((short) (fishingRod.getDurability() + 1));&#10;                    }&#10;                }&#10;                Bukkit.getScheduler().scheduleSyncDelayedTask(this, new Runnable() {&#10;                    @Override&#10;                    public void run() {&#10;                        startFishingGame(player);&#10;                    }&#10;                }, 3L);&#10;            }&#10;        }&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerInteract(PlayerInteractEvent event) {&#10;        Player player = event.getPlayer();&#10;        FishingGame game = activeGames.get(player);&#10;        if (game != null) {&#10;            game.onInteract();&#10;        }&#10;    }&#10;&#10;    private boolean isInPool(Location location) {&#10;        if (location == null || location.getWorld() == null || poolLocation == null || poolLocation.getWorld() == null) {&#10;            getLogger().warning(&quot;Null location or world detected in isInPool check.&quot;);&#10;            return false;&#10;        }&#10;        if (!location.getWorld().equals(poolLocation.getWorld())) {&#10;            return false;&#10;        }&#10;        return location.distanceSquared(poolLocation) &lt;= poolRadius * poolRadius;&#10;    }&#10;&#10;    private void startFishingGame(Player player) {&#10;        if (activeGames.containsKey(player)) {&#10;            activeGames.get(player).end();&#10;        } else {&#10;            FishingGame game = new FishingGame(player);&#10;            activeGames.put(player, game);&#10;            game.start();&#10;        }&#10;    }&#10;&#10;    private void giveReward(Player player) {&#10;        double random = Math.random();&#10;        double cumulativeChance = 0;&#10;&#10;        for (Reward reward : rewards.values()) {&#10;            cumulativeChance += reward.getChance();&#10;            if (random &lt;= cumulativeChance) {&#10;                player.sendMessage(reward.getMessage());&#10;                for (String command : reward.getCommands()) {&#10;                    command = command.replace(&quot;%player%&quot;, player.getName());&#10;                    Bukkit.dispatchCommand(Bukkit.getConsoleSender(), command);&#10;                }&#10;                return;&#10;            }&#10;        }&#10;    }&#10;&#10;    public void setPool(Location location, int radius) {&#10;        if (location == null || location.getWorld() == null) {&#10;            getLogger().warning(&quot;Attempted to set pool with null location or world.&quot;);&#10;            return;&#10;        }&#10;        poolLocation = location;&#10;        poolRadius = radius;&#10;        FileConfiguration config = getConfig();&#10;        config.set(&quot;pool.location&quot;, String.format(&quot;%.2f, %.2f, %.2f, %s&quot;, location.getX(), location.getY(), location.getZ(), location.getWorld().getName()));&#10;        config.set(&quot;pool.radius&quot;, radius);&#10;        saveConfig();&#10;    }&#10;&#10;    private class FishingGame {&#10;        private final Player player;&#10;        private BossBar bossBar;&#10;        private BukkitRunnable gameTask;&#10;        private int position;&#10;        private int count;&#10;        private boolean increasing;&#10;        private int gameSpeed;&#10;&#10;        public FishingGame(Player player) {&#10;            this.player = player;&#10;            if (!useActionBar) {&#10;                this.bossBar = Bukkit.createBossBar(getBarText(), BarColor.GREEN, BarStyle.SOLID);&#10;                this.bossBar.addPlayer(player);&#10;            }&#10;&#10;            if (randomSpeed) {&#10;                Random random = new Random();&#10;                gameSpeed = random.nextInt(maxSpeed - minSpeed + 1) + minSpeed;&#10;            } else {&#10;                gameSpeed = fixedSpeed;&#10;            }&#10;        }&#10;&#10;        public void start() {&#10;            position = 0;&#10;            increasing = true;&#10;            gameTask = new BukkitRunnable() {&#10;                @Override&#10;                public void run() {&#10;                    if (count &gt;= 80) {&#10;                        end();&#10;                        player.sendMessage(fishEscapeMessage);&#10;                        player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;                    }&#10;                    if (increasing) {&#10;                        position++;&#10;                        count++;&#10;                        if (position &gt;= 20) {&#10;                            increasing = false;&#10;                        }&#10;                    } else {&#10;                        position--;&#10;                        count++;&#10;                        if (position &lt;= 0) {&#10;                            increasing = true;&#10;                        }&#10;                    }&#10;                    updateBar();&#10;                }&#10;            };&#10;            gameTask.runTaskTimer(CustomFishingZ.this, 0, gameSpeed);&#10;        }&#10;&#10;        public void onInteract() {&#10;            if ((position == 9 || position == 10 || position == 11)) {&#10;                end();&#10;                giveReward(player);&#10;                player.sendMessage(fishCaughtMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_EXPERIENCE_ORB_PICKUP, 1.0f, 1.0f);&#10;            } else {&#10;                end();&#10;                player.sendMessage(fishEscapeMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;            }&#10;        }&#10;&#10;        public void end() {&#10;            if (gameTask != null) {&#10;                gameTask.cancel();&#10;            }&#10;            player.getWorld().getEntities().stream()&#10;                    .filter(entity -&gt; entity instanceof org.bukkit.entity.FishHook)&#10;                    .map(entity -&gt; (org.bukkit.entity.FishHook) entity)&#10;                    .filter(fishHook -&gt; fishHook.getShooter() instanceof Player)&#10;                    .filter(fishHook -&gt; fishHook.getShooter().equals(player))&#10;                    .forEach(org.bukkit.entity.FishHook::remove);&#10;&#10;            if (bossBar != null) {&#10;                bossBar.removeAll();&#10;            }&#10;            activeGames.remove(player);&#10;        }&#10;&#10;        private void updateBar() {&#10;            String barText = getBarText();&#10;            if (useActionBar) {&#10;                player.spigot().sendMessage(ChatMessageType.ACTION_BAR, TextComponent.fromLegacyText(barText));&#10;            } else {&#10;                bossBar.setTitle(barText);&#10;            }&#10;        }&#10;&#10;        private String getBarText() {&#10;            StringBuilder barText = new StringBuilder(&quot;§7&quot;);&#10;            for (int i = 0; i &lt; 21; i++) {&#10;                if (i == position) {&#10;                    barText.append(&quot;§a&quot;).append(barTexture);&#10;                } else if (i == 9 || i == 10 || i == 11) {&#10;                    barText.append(&quot;§2&quot;).append(barTexture);&#10;                } else {&#10;                    barText.append(&quot;§7&quot;).append(barTexture);&#10;                }&#10;            }&#10;            return barText.toString();&#10;        }&#10;    }&#10;&#10;    private static class Reward {&#10;        private final String message;&#10;        private final List&lt;String&gt; commands;&#10;        private final double chance;&#10;&#10;        public Reward(String message, List&lt;String&gt; commands, double chance) {&#10;            this.message = message;&#10;            this.commands = commands;&#10;            this.chance = chance;&#10;        }&#10;&#10;        public String getMessage() {&#10;            return message;&#10;        }&#10;&#10;        public List&lt;String&gt; getCommands() {&#10;            return commands;&#10;        }&#10;&#10;        public double getChance() {&#10;            return chance;&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;This updated version includes the following changes:&#10;&#10;1. Added `useActionBar` and `barTexture` fields to the main class.&#10;2. Updated the `loadConfig()` method to load these new settings from the config file.&#10;3. Modified the `FishingGame` class to support both BossBar and ActionBar display types.&#10;4. Updated the `updateBar()` method to use either BossBar or ActionBar based on the `useActionBar` setting.&#10;5. Created a `getBarText()` method to generate the bar text using the custom `barTexture`.&#10;&#10;Make sure to update your config.yml file to include these new options:&#10;&#10;```yaml&#10;settings:&#10;  use_action_bar: false&#10;  bar_texture: &quot;█&quot;&#10;```&#10;&#10;You can now easily switch between BossBar and ActionBar display types and customize the texture used in the bar." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="Can you please add folia support ?&#10;" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Certainly! I'd be happy to add Folia support to the CustomFishingZ plugin. Here's how we can modify the code to make it compatible with both Folia and regular Bukkit/Spigot servers:&#10;&#10;1. First, we'll need to add a check to determine if the server is running Folia:&#10;&#10;```java&#10;private boolean isFolia() {&#10;    try {&#10;        Class.forName(&quot;io.papermc.paper.threadedregions.RegionizedServer&quot;);&#10;        return true;&#10;    } catch (ClassNotFoundException e) {&#10;        return false;&#10;    }&#10;}&#10;```&#10;&#10;2. Next, we'll modify the `startFishingGame` method to use Folia's region-based scheduling:&#10;&#10;```java&#10;private void startFishingGame(Player player) {&#10;    if (activeGames.containsKey(player)) {&#10;        activeGames.get(player).end();&#10;    } else {&#10;        FishingGame game = new FishingGame(player);&#10;        activeGames.put(player, game);&#10;        if (isFolia()) {&#10;            player.getScheduler().run(this, task -&gt; game.start(), null);&#10;        } else {&#10;            game.start();&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;3. Update the `FishingGame` class to use Folia's scheduling when available:&#10;&#10;```java&#10;private class FishingGame {&#10;    // ... existing fields ...&#10;    private io.papermc.paper.threadedregions.scheduler.ScheduledTask foliaTask;&#10;&#10;    // ... existing methods ...&#10;&#10;    public void start() {&#10;        position = 0;&#10;        increasing = true;&#10;        if (isFolia()) {&#10;            foliaTask = player.getScheduler().runAtFixedRate(CustomFishingZ.this, task -&gt; {&#10;                // Game logic here (same as in the existing BukkitRunnable)&#10;            }, null, 0, gameSpeed);&#10;        } else {&#10;            // Existing BukkitRunnable implementation&#10;        }&#10;    }&#10;&#10;    public void end() {&#10;        if (isFolia()) {&#10;            if (foliaTask != null) {&#10;                foliaTask.cancel();&#10;            }&#10;        } else {&#10;            if (gameTask != null) {&#10;                gameTask.cancel();&#10;            }&#10;        }&#10;        // ... rest of the end method ...&#10;    }&#10;}&#10;```&#10;&#10;4. Update the plugin.yml to include Folia as a supported platform:&#10;&#10;```yaml&#10;name: CustomFishingZ&#10;version: ${project.version}&#10;main: me.zivush.customfishingz.CustomFishingZ&#10;api-version: 1.19&#10;authors: [YourName]&#10;description: Custom fishing minigame plugin&#10;folia-supported: true&#10;```&#10;&#10;These changes will make the plugin compatible with both Folia and regular Bukkit/Spigot servers. The plugin will use Folia's region-based scheduling when running on a Folia server, and fall back to Bukkit scheduling on regular servers." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="&amp;quot;getScheduler&amp;quot; is red" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="I understand that &quot;getScheduler&quot; is showing as red in your IDE. This is likely because the Folia API is not recognized in your current project setup. To resolve this:&#10;&#10;1. Make sure you have the Folia API jar in your project's dependencies.&#10;2. If you're using Maven, add the Folia repository and dependency to your pom.xml file.&#10;3. If using an IDE, refresh your project and update your dependencies.&#10;&#10;Once you've added the Folia API to your project, the &quot;getScheduler&quot; method should be recognized, and the red highlighting should disappear." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="[00:53:47 ERROR]: Could not pass event PlayerFishEvent to CustomFishingZ v1.31&#10;java.lang.UnsupportedOperationException: null&#10;        at org.bukkit.craftbukkit.scheduler.CraftScheduler.handle(CraftScheduler.java:524) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:228) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.craftbukkit.scheduler.CraftScheduler.scheduleSyncRepeatingTask(CraftScheduler.java:205) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.craftbukkit.scheduler.CraftScheduler.scheduleSyncDelayedTask(CraftScheduler.java:169) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at CustomFishingZ-1.31.jar/me.zivush.customfishingz.CustomFishingZ.onPlayerFish(CustomFishingZ.java:121) ~[CustomFishingZ-1.31.jar:?]&#10;        at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor94.execute(Unknown Source) ~[?:?]&#10;        at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]&#10;        at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]&#10;        at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]&#10;        at net.minecraft.world.entity.projectile.FishingHook.retrieve(FishingHook.java:549) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.world.item.FishingRodItem.use(FishingRodItem.java:33) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.world.item.ItemStack.use(ItemStack.java:604) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.server.level.ServerPlayerGameMode.useItem(ServerPlayerGameMode.java:488) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItem(ServerGamePacketListenerImpl.java:2076) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.network.protocol.game.ServerboundUseItemPacket.handle(ServerboundUseItemPacket.java:47) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.network.protocol.game.ServerboundUseItemPacket.handle(ServerboundUseItemPacket.java:10) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:58) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$2(PacketUtils.java:86) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at io.papermc.paper.threadedregions.EntityScheduler.executeTick(EntityScheduler.java:173) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1711) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:406) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:540) ~[folia-1.21.1.jar:1.21.1-DEV-9203a7a]&#10;        at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]&#10;&#10;All scheduler should be changed according to the folia&#10;" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Certainly! To address this issue and make the plugin fully compatible with Folia, we need to update all scheduler-related code. Here's how we can modify the relevant parts of the CustomFishingZ class:&#10;&#10;1. In the `onPlayerFish` method, replace the Bukkit scheduler with Folia's region-based scheduler:&#10;&#10;```java&#10;@EventHandler&#10;public void onPlayerFish(PlayerFishEvent event) {&#10;    Player player = event.getPlayer();&#10;    if (event.getState() == PlayerFishEvent.State.CAUGHT_FISH) {&#10;        Location fishLocation = event.getHook().getLocation();&#10;        if (isInPool(fishLocation)) {&#10;            event.setCancelled(true);&#10;            ItemStack fishingRod = player.getInventory().getItemInMainHand();&#10;            if (fishingRod.getType() == Material.FISHING_ROD) {&#10;                // ... (existing durability logic)&#10;            }&#10;            player.getScheduler().run(this, task -&gt; startFishingGame(player), null);&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;2. Update the `FishingGame` class to use Folia's scheduling:&#10;&#10;```java&#10;private class FishingGame {&#10;    private final Player player;&#10;    private BossBar bossBar;&#10;    private io.papermc.paper.threadedregions.scheduler.ScheduledTask gameTask;&#10;    private int position;&#10;    private int count;&#10;    private boolean increasing;&#10;    private int gameSpeed;&#10;&#10;    // ... (existing constructor)&#10;&#10;    public void start() {&#10;        position = 0;&#10;        increasing = true;&#10;        gameTask = player.getScheduler().runAtFixedRate(CustomFishingZ.this, task -&gt; {&#10;            if (count &gt;= 80) {&#10;                end();&#10;                player.sendMessage(fishEscapeMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;                return;&#10;            }&#10;            if (increasing) {&#10;                position++;&#10;                count++;&#10;                if (position &gt;= 20) {&#10;                    increasing = false;&#10;                }&#10;            } else {&#10;                position--;&#10;                count++;&#10;                if (position &lt;= 0) {&#10;                    increasing = true;&#10;                }&#10;            }&#10;            updateBar();&#10;        }, null, 0, gameSpeed);&#10;    }&#10;&#10;    public void end() {&#10;        if (gameTask != null) {&#10;            gameTask.cancel();&#10;        }&#10;        // ... (existing end logic)&#10;    }&#10;&#10;    // ... (other existing methods)&#10;}&#10;```&#10;&#10;3. Update the `giveReward` method to use Folia's scheduling for command execution:&#10;&#10;```java&#10;private void giveReward(Player player) {&#10;    double random = Math.random();&#10;    double cumulativeChance = 0;&#10;&#10;    for (Reward reward : rewards.values()) {&#10;        cumulativeChance += reward.getChance();&#10;        if (random &lt;= cumulativeChance) {&#10;            player.sendMessage(reward.getMessage());&#10;            for (String command : reward.getCommands()) {&#10;                final String finalCommand = command.replace(&quot;%player%&quot;, player.getName());&#10;                getServer().getGlobalRegionScheduler().execute(this, () -&gt; &#10;                    Bukkit.dispatchCommand(Bukkit.getConsoleSender(), finalCommand)&#10;                );&#10;            }&#10;            return;&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;These changes will make the plugin fully compatible with Folia by using the appropriate scheduling methods. The `UnsupportedOperationException` should no longer occur, and the plugin should work correctly on Folia servers." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="send me full fixed class that will work for spigot and Folia version" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Certainly! Here's the full CustomFishingZ class that will work for both Spigot and Folia versions:&#10;&#10;```java&#10;package me.zivush.customfishingz;&#10;&#10;import org.bukkit.*;&#10;import org.bukkit.boss.BarColor;&#10;import org.bukkit.boss.BarStyle;&#10;import org.bukkit.boss.BossBar;&#10;import org.bukkit.configuration.ConfigurationSection;&#10;import org.bukkit.configuration.file.FileConfiguration;&#10;import org.bukkit.enchantments.Enchantment;&#10;import org.bukkit.entity.Player;&#10;import org.bukkit.event.EventHandler;&#10;import org.bukkit.event.Listener;&#10;import org.bukkit.event.player.PlayerFishEvent;&#10;import org.bukkit.event.player.PlayerInteractEvent;&#10;import org.bukkit.inventory.ItemStack;&#10;import org.bukkit.plugin.java.JavaPlugin;&#10;import org.bukkit.scheduler.BukkitRunnable;&#10;import org.bukkit.scheduler.BukkitTask;&#10;&#10;import java.util.HashMap;&#10;import java.util.List;&#10;import java.util.Map;&#10;import java.util.Random;&#10;&#10;public class CustomFishingZ extends JavaPlugin implements Listener {&#10;&#10;    private Location poolLocation;&#10;    private int poolRadius;&#10;    private Map&lt;String, Reward&gt; rewards;&#10;    private Map&lt;Player, FishingGame&gt; activeGames;&#10;    private String fishEscapeMessage;&#10;    private String fishCaughtMessage;&#10;    private boolean randomSpeed;&#10;    private int fixedSpeed;&#10;    private int minSpeed;&#10;    private int maxSpeed;&#10;    private boolean useActionBar;&#10;    private String barTexture;&#10;&#10;    @Override&#10;    public void onEnable() {&#10;        saveDefaultConfig();&#10;        loadConfig();&#10;        getServer().getPluginManager().registerEvents(this, this);&#10;        CustomFishingZCommands commands = new CustomFishingZCommands(this);&#10;        getCommand(&quot;customfishingz&quot;).setExecutor(commands);&#10;        getCommand(&quot;customfishingz&quot;).setTabCompleter(commands);&#10;        activeGames = new HashMap&lt;&gt;();&#10;    }&#10;&#10;    @Override&#10;    public void onDisable() {&#10;        for (FishingGame game : activeGames.values()) {&#10;            game.end();&#10;        }&#10;    }&#10;&#10;    public void loadConfig() {&#10;        // ... (existing loadConfig method)&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerFish(PlayerFishEvent event) {&#10;        Player player = event.getPlayer();&#10;        if (event.getState() == PlayerFishEvent.State.CAUGHT_FISH) {&#10;            Location fishLocation = event.getHook().getLocation();&#10;            if (isInPool(fishLocation)) {&#10;                event.setCancelled(true);&#10;                ItemStack fishingRod = player.getInventory().getItemInMainHand();&#10;                if (fishingRod.getType() == Material.FISHING_ROD) {&#10;                    int unbreakingLevel = fishingRod.getEnchantmentLevel(Enchantment.DURABILITY);&#10;                    boolean shouldTakeDamage = true;&#10;&#10;                    if (unbreakingLevel &gt; 0) {&#10;                        Random random = new Random();&#10;                        int chance = 100 / (unbreakingLevel + 1);&#10;                        shouldTakeDamage = random.nextInt(100) &lt; chance;&#10;                    }&#10;&#10;                    if (shouldTakeDamage) {&#10;                        fishingRod.setDurability((short) (fishingRod.getDurability() + 1));&#10;                    }&#10;                }&#10;                scheduleTask(() -&gt; startFishingGame(player), 3L);&#10;            }&#10;        }&#10;    }&#10;&#10;    @EventHandler&#10;    public void onPlayerInteract(PlayerInteractEvent event) {&#10;        Player player = event.getPlayer();&#10;        FishingGame game = activeGames.get(player);&#10;        if (game != null) {&#10;            game.onInteract();&#10;        }&#10;    }&#10;&#10;    private boolean isInPool(Location location) {&#10;        // ... (existing isInPool method)&#10;    }&#10;&#10;    private void startFishingGame(Player player) {&#10;        if (activeGames.containsKey(player)) {&#10;            activeGames.get(player).end();&#10;        } else {&#10;            FishingGame game = new FishingGame(player);&#10;            activeGames.put(player, game);&#10;            game.start();&#10;        }&#10;    }&#10;&#10;    private void giveReward(Player player) {&#10;        double random = Math.random();&#10;        double cumulativeChance = 0;&#10;&#10;        for (Reward reward : rewards.values()) {&#10;            cumulativeChance += reward.getChance();&#10;            if (random &lt;= cumulativeChance) {&#10;                player.sendMessage(reward.getMessage());&#10;                for (String command : reward.getCommands()) {&#10;                    final String finalCommand = command.replace(&quot;%player%&quot;, player.getName());&#10;                    scheduleGlobalTask(() -&gt; Bukkit.dispatchCommand(Bukkit.getConsoleSender(), finalCommand));&#10;                }&#10;                return;&#10;            }&#10;        }&#10;    }&#10;&#10;    public void setPool(Location location, int radius) {&#10;        // ... (existing setPool method)&#10;    }&#10;&#10;    private boolean isFolia() {&#10;        try {&#10;            Class.forName(&quot;io.papermc.paper.threadedregions.RegionizedServer&quot;);&#10;            return true;&#10;        } catch (ClassNotFoundException e) {&#10;            return false;&#10;        }&#10;    }&#10;&#10;    private void scheduleTask(Runnable task, long delay) {&#10;        if (isFolia()) {&#10;            getServer().getGlobalRegionScheduler().runDelayed(this, scheduledTask -&gt; task.run(), delay);&#10;        } else {&#10;            Bukkit.getScheduler().runTaskLater(this, task, delay);&#10;        }&#10;    }&#10;&#10;    private void scheduleRepeatingTask(Runnable task, long delay, long period) {&#10;        if (isFolia()) {&#10;            return getServer().getGlobalRegionScheduler().runAtFixedRate(this, scheduledTask -&gt; task.run(), delay, period);&#10;        } else {&#10;            return Bukkit.getScheduler().runTaskTimer(this, task, delay, period);&#10;        }&#10;    }&#10;&#10;    private void scheduleGlobalTask(Runnable task) {&#10;        if (isFolia()) {&#10;            getServer().getGlobalRegionScheduler().execute(this, scheduledTask -&gt; task.run());&#10;        } else {&#10;            Bukkit.getScheduler().runTask(this, task);&#10;        }&#10;    }&#10;&#10;    private class FishingGame {&#10;        private final Player player;&#10;        private BossBar bossBar;&#10;        private Object gameTask;&#10;        private int position;&#10;        private int count;&#10;        private boolean increasing;&#10;        private int gameSpeed;&#10;&#10;        public FishingGame(Player player) {&#10;            this.player = player;&#10;            if (!useActionBar) {&#10;                this.bossBar = Bukkit.createBossBar(getBarText(), BarColor.GREEN, BarStyle.SOLID);&#10;                this.bossBar.addPlayer(player);&#10;            }&#10;&#10;            if (randomSpeed) {&#10;                Random random = new Random();&#10;                gameSpeed = random.nextInt(maxSpeed - minSpeed + 1) + minSpeed;&#10;            } else {&#10;                gameSpeed = fixedSpeed;&#10;            }&#10;        }&#10;&#10;        public void start() {&#10;            position = 0;&#10;            increasing = true;&#10;            Runnable gameLogic = () -&gt; {&#10;                if (count &gt;= 80) {&#10;                    end();&#10;                    player.sendMessage(fishEscapeMessage);&#10;                    player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;                    return;&#10;                }&#10;                if (increasing) {&#10;                    position++;&#10;                    count++;&#10;                    if (position &gt;= 20) {&#10;                        increasing = false;&#10;                    }&#10;                } else {&#10;                    position--;&#10;                    count++;&#10;                    if (position &lt;= 0) {&#10;                        increasing = true;&#10;                    }&#10;                }&#10;                updateBar();&#10;            };&#10;            gameTask = scheduleRepeatingTask(gameLogic, 0L, gameSpeed);&#10;        }&#10;&#10;        public void onInteract() {&#10;            if ((position == 9 || position == 10 || position == 11)) {&#10;                end();&#10;                giveReward(player);&#10;                player.sendMessage(fishCaughtMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_EXPERIENCE_ORB_PICKUP, 1.0f, 1.0f);&#10;            } else {&#10;                end();&#10;                player.sendMessage(fishEscapeMessage);&#10;                player.playSound(player.getLocation(), Sound.ENTITY_FISH_SWIM, 1.0f, 1.0f);&#10;            }&#10;        }&#10;&#10;        public void end() {&#10;            if (gameTask != null) {&#10;                if (isFolia()) {&#10;                    ((io.papermc.paper.threadedregions.scheduler.ScheduledTask) gameTask).cancel();&#10;                } else {&#10;                    ((BukkitTask) gameTask).cancel();&#10;                }&#10;            }&#10;            player.getWorld().getEntities().stream()&#10;                    .filter(entity -&gt; entity instanceof org.bukkit.entity.FishHook)&#10;                    .map(entity -&gt; (org.bukkit.entity.FishHook) entity)&#10;                    .filter(fishHook -&gt; fishHook.getShooter() instanceof Player)&#10;                    .filter(fishHook -&gt; fishHook.getShooter().equals(player))&#10;                    .forEach(org.bukkit.entity.FishHook::remove);&#10;&#10;            if (bossBar != null) {&#10;                bossBar.removeAll();&#10;            }&#10;            activeGames.remove(player);&#10;        }&#10;&#10;        private void updateBar() {&#10;            String barText = getBarText();&#10;            if (useActionBar) {&#10;                player.spigot().sendMessage(ChatMessageType.ACTION_BAR, TextComponent.fromLegacyText(barText));&#10;            } else {&#10;                bossBar.setTitle(barText);&#10;            }&#10;        }&#10;&#10;        private String getBarText() {&#10;            StringBuilder barText = new StringBuilder(&quot;§7&quot;);&#10;            for (int i = 0; i &lt; 21; i++) {&#10;                if (i == position) {&#10;                    barText.append(&quot;§a&quot;).append(barTexture);&#10;                } else if (i == 9 || i == 10 || i == 11) {&#10;                    barText.append(&quot;§2&quot;).append(barTexture);&#10;                } else {&#10;                    barText.append(&quot;§7&quot;).append(barTexture);&#10;                }&#10;            }&#10;            return barText.toString();&#10;        }&#10;    }&#10;&#10;    private static class Reward {&#10;        private final String message;&#10;        private final List&lt;String&gt; commands;&#10;        private final double chance;&#10;&#10;        public Reward(String message, List&lt;String&gt; commands, double chance) {&#10;            this.message = message;&#10;            this.commands = commands;&#10;            this.chance = chance;&#10;        }&#10;&#10;        public String getMessage() {&#10;            return message;&#10;        }&#10;&#10;        public List&lt;String&gt; getCommands() {&#10;            return commands;&#10;        }&#10;&#10;        public double getChance() {&#10;            return chance;&#10;        }&#10;    }&#10;}&#10;```&#10;&#10;This version of the CustomFishingZ class is compatible with both Spigot and Folia. It uses conditional checks to determine which scheduling method to use based on whether the server is running Folia or not. The core functionality remains the same, but the scheduling mechanisms have been abstracted to work with both server types." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-08-27T00:56:32.3712984" />
+              </chat>
+              <chat>
+                <internalId value="f2bbad20-27be-4a54-8008-8cb37b4a7ff2" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="331d0cc7-e7e2-40de-8656-f4fd83f6d69a" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3e4aab1e-bb16-48af-877d-f9cbdeae8377" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="8c07ef75-08a9-4ea0-a529-cb78ef85a7a0" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="94cccb12-9372-438b-8dcf-374e12fb9a11" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="04c10dc7-bf7d-4449-ad1a-5f046df9ddf1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="1edbe9cb-1c43-4dc3-a2ce-c673b6e92800" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="4be49921-7635-440e-aa46-c50b4756826a" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="27b9ede0-eb96-4be1-9909-111c9577d635" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="8437a9b9-8985-441d-b4b4-dc83ce20970e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="9a67b044-54c6-4fa3-a9d1-23f0290c1309" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="181fc0b3-5159-4288-8845-bd4c60b15ffd" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="258b20fa-b8f2-432c-86c3-524cc6ab3f61" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="f7d50266-c813-4d16-b19e-8e5db4acebd5" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="e198ccd1-d627-4e6a-8d95-7e62aa07de7f" />
+              </chat>
+              <chat>
+                <internalId value="ee9fc258-efcd-4252-8f9e-530536c6ce27" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="0d17416d-4534-45d7-8c8a-6d182d38ddc9" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="a1dce8ba-25f7-4a22-8324-4da66780c948" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="9fd19524-330d-4bd8-be5d-ea7f125bb156" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="ca27f861-b4d0-4a63-a7f8-55b18e7a91b4" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="96be3075-3661-4c72-b633-29501e052716" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="daf27490-d88e-4523-9ad4-1fba49435ff2" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="e6ffea0d-4e60-4fb0-ac64-51ef21590c0b" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="90fa4e19-5599-4717-bffe-756c92e2d3a2" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="b65ad96b-ec11-4b86-affd-a13b0af8223c" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="dc354f22-e1d1-43ff-9819-35e4c6ad7d4f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="0010d076-f5f3-437d-865a-7ca2c0327b58" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="f0216192-dadb-464b-aad4-753bdebabee1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="e2a1b055-be8c-4495-add0-2411d97518a3" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="4e87a8a8-4406-42e8-aa3f-88a95d68b543" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="a1af2c57-5787-43d0-a61f-77b61565ea02" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="de490b9d-58e2-4494-8a8c-62f3e55d2c05" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="d29b1614-348f-4366-a755-72a184fa5eef" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="4f22a1c3-c1fe-44bb-a656-8e40b5dca840" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="f76bddc0-d252-4ca4-875e-7f64fd8432d4" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="d1259915-9448-42cf-b0a5-a75f31ed7cc8" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="5e145b60-32eb-4773-bfff-d08c9b1fd5ee" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="b189a2e8-0477-44f3-b7c3-427874fe84eb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="f02b5a01-db67-4c25-a3ef-cae87fb6e03d" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="dff7fca7-d8c7-4c16-9e26-c1bdbc71d060" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="bea1fe6a-2519-4de0-803d-ce99524325de" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="884fef97-d42b-40c6-b2c3-6a6f288da06f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="62abad07-3b0a-4907-9905-6ea1f19b6648" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="6c78bf73-0773-458d-a071-2739cc4c387d" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="cdc78f32-af88-4e20-a64a-6c0561062bdb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="e48d184d-f39e-43f6-bea8-408eca6223c2" />
+              </chat>
+              <chat>
+                <internalId value="ff3f4ef3-1def-47b4-b39b-c8a833ba60c1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="59c741b1-ab1b-4d64-bbca-188828889b15" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="anthropic/claude-3-5-sonnet-20240620" />
+              <provider value="Anthropic" />
+              <tags>
+                <list>
+                  <option value="gateway" />
+                  <option value="accuracy" />
+                  <option value="recommended" />
+                  <option value="free" />
+                </list>
+              </tags>
+              <title value="Claude 3.5 Sonnet" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>

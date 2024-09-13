@@ -1,0 +1,7 @@
+server:
+  fishCaught: 0
+  fishEscaped: 0
+  fishPlayed: 0
+  rewardsWon: {}
+
+players: {}

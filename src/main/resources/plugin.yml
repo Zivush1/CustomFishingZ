@@ -1,0 +1,24 @@
+name: CustomFishingZ
+version: '${project.version}'
+main: me.zivush.customfishingz.CustomFishingZ
+author: Zivush
+api-version: '1.20'
+description: Special fishing pool with rewards
+softdepend: [PlaceholderAPI]
+commands:
+  customfishingz:
+    description: CustomFishingZ commands
+    usage: /<command> [wand|setpool|reload|reward]
+permissions:
+  customfishingz.wand:
+    description: "Allows the player to get the fishing pool wand"
+    default: op
+  customfishingz.setpool:
+    description: "Allows the player to set the fishing pool"
+    default: op
+  customfishingz.reload:
+    description: "Allows the player to reload the plugin configuration"
+    default: op
+  customfishingz.reward:
+    description: "Allows the player to manage rewards"
+    default: op
